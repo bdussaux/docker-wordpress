@@ -1,5 +1,5 @@
 
-# docker-wordpress
+# Docker pour Wordpress
 
 ### Description 🧐
 
