@@ -19,7 +19,7 @@ services:
     ports :
      - "80:80"
     volumes:
-     - /Users/benoitdussaux/Documents/DEV/docker-wordpress/www:/var/www/html/
+     - /chemin/vers/app/www:/var/www/html/
     environment:
       WORDPRESS_DB_HOST: db:3306
       WORDPRESS_DB_USER: wordpress
